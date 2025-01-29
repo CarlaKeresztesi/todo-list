@@ -4,8 +4,8 @@ Presenting a To Do list for myself, using HTML, SCSS(BEM!) and TS.
 
 ## HTML / CSS
 
--   [ ] header with greeting;
--   [ ] div with a button for list inputs;
+-   [x] header with greeting;
+-   [x] div with a button for list inputs;
 -   [ ] UL list;
 -   [ ] button for reset;
 -   [ ] content formatting;

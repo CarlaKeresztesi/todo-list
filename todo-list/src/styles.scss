@@ -1,0 +1,25 @@
+$primary-color: #40ffcf;
+$bg-color: #f8f8f8;
+$border-color: #ddd;
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background: $bg-color;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+.header {
+  &__greeting {
+    font-size: 3.5rem;
+    color: $primary-color;
+  }
+
+  &__message {
+    font-size: 1.2rem;
+    color: #555;
+  }
+}
+
+
