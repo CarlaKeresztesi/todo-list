@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
 };
    // Event listener for the "Add To-Do" button
 addButton.addEventListener('click', addTodo);
-console.log('Button clicked');
+//console.log('Button clicked');
 
    // Allow the user to add a to-do by pressing "Enter"
 inputElement.addEventListener('keypress', (event: KeyboardEvent) => {
